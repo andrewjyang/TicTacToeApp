@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="instructions">Welcome to Tic Tac Toe! There are two players. Player 1 is represented by a blue fish and Player 2 is represented by a yellow fish. The first player to get 3 fish in a row vertically, horizontally, or diagonally wins.</string>
+    <string name="playerOneText">Player 1 Name</string>
+    <string name="playerOneInput">Player 1 enter your name</string>
+    <string name="playerTwoText">Player 2 Name</string>
+    <string name="playerTwoInput">Player 2 enter your name</string>
+    <string name="playButton">PLAY!</string>
+    <string name="quitButton">QUIT</string>
+    <string name="playAgainButton">PLAY AGAIN</string>
+
+</resources>
